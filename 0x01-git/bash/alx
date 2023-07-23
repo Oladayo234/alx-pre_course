@@ -1,9 +1,2 @@
 #!/bin/bash
 echo "ALX"
-
-C
-^C
-cd
-N
-$?
-exit
